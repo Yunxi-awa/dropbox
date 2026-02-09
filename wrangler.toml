@@ -1,1 +1,3 @@
- main = "js/main.js"  # 路径必须与实际一致
+name = "dropbox"
+main = "js/main.js"
+compatibility_date = "2026-02-09"
